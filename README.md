@@ -1,2 +1,2 @@
-# octocat
+# Tick-Toe
 My Personal Repository
