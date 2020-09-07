@@ -1,2 +1,2 @@
 # Tick-Toe
-My Personal Repository
+Private Repository
